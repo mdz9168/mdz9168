@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mo Lian
+- 👀 I’m interested in Data analyzing and web development
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: moseslian321@gmail.com
